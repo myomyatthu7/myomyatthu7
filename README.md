@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Myo Myat Thu</h1>
-<h3 align="center">A passionate Android developer from Myanmar.</h3>
+<h1 align="center">Hello 👋,
+  I'm Myo Myat Thu</h1>
+<h3 align="center">A passionate Android Developer from Myanmar.</h3>
 
 - 🌱 I’m currently learning **Java,Kotlin Android, Firebase, MySQL, Retrofit, Android Architecture**
 
