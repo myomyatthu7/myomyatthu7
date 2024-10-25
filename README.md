@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋,
   I'm Myo Myat Thu</h1>
-<h3 align="center">A passionate Android Developer from Myanmar.</h3>
+<h3 align="center">A passionate Mobile Developer from Myanmar.</h3>
 
-- 🌱 I’m currently learning **Java,Kotlin Android, Firebase, MySQL, Retrofit, Android Architecture**
+- 🌱 I’m currently learning **Java,Kotlin,Dart(Flutter) , Firebase, MySQL, Retrofit, Android Architecture**
 
-- 👯 I’m looking to collaborate on **Android App.**
+- 👯 I’m looking to collaborate on **Mobile App.**
 
 - 💬 Ask me about **Java,Kotlin Android**
 
-- 📫 How to reach me **myomyatthu19999@gmail.com**
+- 📫 How to reach me **myomyat.thu.963@gmail.com**
 
 - ⚡ Fun fact **Whatever u decide to do, make sure it, make u happy.**
 
